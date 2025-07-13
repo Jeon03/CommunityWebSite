@@ -33,16 +33,6 @@ AI 뉴스 요약 기능과 공감/댓글 시스템을 통해 **참여형 정보 
 - **Database & Storage**  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazon-aws&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" height="25"/>
-
-- **배포 및 인프라**  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white" height="25"/>
-
-- **협업 및 버전관리**  
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="25"/>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" height="25"/>
 
 - **디자인 도구**  
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="25"/>
