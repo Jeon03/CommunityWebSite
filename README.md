@@ -71,3 +71,9 @@ AI 뉴스 요약 기능과 공감/댓글 시스템을 통해 **참여형 정보 
 ### 마이페이지
 - 내가 쓴 글 / 댓글 단 글 / 공감 누른 글 목록 확인
 - 회원 탈퇴 기능 제공
+
+
+## 시연 영상
+<img width="1793" height="944" alt="image" src="https://github.com/user-attachments/assets/c2eab1c7-314a-45cf-ba2e-494a78804442" />
+[YouTube 영상](https://youtu.be/gujyrfgJSlo)
+
