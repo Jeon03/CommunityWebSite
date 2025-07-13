@@ -36,3 +36,12 @@ AI 뉴스 요약 기능과 공감/댓글 시스템을 통해 **참여형 정보 
 
 - **디자인 도구**  
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="25"/>
+  
+## 프로젝트 
+
+### 시스템 구성도
+<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/1ab460e0-733b-4c66-943b-ccc7c66a4710" />
+
+### ERD
+<img width="2400" height="1350" alt="image" src="https://github.com/user-attachments/assets/c34495f7-0517-4749-aca7-b8e5647be062" />
+
