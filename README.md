@@ -18,6 +18,31 @@ AI 뉴스 요약 기능과 공감/댓글 시스템을 통해 **참여형 정보 
 - **뉴스 API와 GPT 요약 기능**을 결합하여 실시간 정보 제공 기능 도입
 - 댓글, 대댓글, 공감 기능을 통해 **사용자 간 활발한 소통 유도**
 - AWS S3, .env 환경 설정 등 **실제 서비스에 근접한 인프라 구성**
-- 기술 스택(Spring Boot + React + MySQL + Docker 등)에 대한 실전 경험 축적
 
 > 단순 CRUD 게시판을 넘어, **정보 소비와 커뮤니티 참여가 결합된 플랫폼**을 구현하는 것이 최종 목표입니다.
+
+
+## ⚙️ 개발 환경
+
+- **Front-end**  
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="25"/>
+
+- **Back-end**  
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white" height="25"/>
+
+- **Database & Storage**  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazon-aws&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white" height="25"/>
+
+- **배포 및 인프라**  
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white" height="25"/>
+
+- **협업 및 버전관리**  
+  <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" height="25"/>
+
+- **디자인 도구**  
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" height="25"/>
